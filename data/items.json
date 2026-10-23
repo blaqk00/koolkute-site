@@ -1,0 +1,26 @@
+[
+  {
+    "id": "drop-2026-10-23-a",
+    "drop_date": "2026-10-23",
+    "category": "plushies",
+    "name": "EXAMPLE: bunny plush",
+    "blurb": "placeholder card. replace me with a real find!",
+    "cute_score": 4,
+    "emoji": "🐰",
+    "image": "assets/img/bunny-fluffy.jpg",
+    "affiliate_url": "",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-22-a",
+    "drop_date": "2026-10-22",
+    "category": "stationery",
+    "name": "EXAMPLE: sticker sheet",
+    "blurb": "placeholder card from yesterday's drop. delete when you have real ones.",
+    "cute_score": 5,
+    "emoji": "✨",
+    "image": "assets/img/kitten-white.jpg",
+    "affiliate_url": "",
+    "button_text": "shop it"
+  }
+]

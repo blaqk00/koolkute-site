@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Koolkute</title>
+  <meta name="description" content="a daily drop of the cutest finds: plushies, stationery, keychains and cozy room decor.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="logo" href="#top" id="siteName">Koolkute</a>
+    <nav>
+      <a href="#drop">today</a>
+      <a href="#downloads">freebies</a>
+      <a href="#about">about</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <span class="blob b1" aria-hidden="true"></span>
+      <span class="blob b2" aria-hidden="true"></span>
+      <div class="hero-inner">
+        <p class="pill" id="todayLabel"></p>
+        <h1 class="hero-name" id="heroName">Koolkute</h1>
+        <p class="tagline" id="tagline">the cutest finds, picked daily</p>
+        <a class="hero-cta" href="#drop">see today's drop 🌷</a>
+      </div>
+    </section>
+
+    <section id="drop" class="block block-drop">
+      <div class="head">
+        <h2><span class="emo" aria-hidden="true">🌷</span> daily drop</h2>
+        <p id="dropDate"></p>
+      </div>
+      <div id="dropGrid" class="grid">
+        <p class="empty">loading the drop...</p>
+      </div>
+    </section>
+
+    <section id="pastBlock" class="block block-past" hidden>
+      <div class="head">
+        <h2><span class="emo" aria-hidden="true">🫧</span> past drops</h2>
+      </div>
+      <div id="pastGrid" class="grid"></div>
+    </section>
+
+    <section id="downloads" class="block block-dl downloads">
+      <div class="head">
+        <h2><span class="emo" aria-hidden="true">🎁</span> exclusive downloads</h2>
+        <p>wallpapers and stickers, made for you</p>
+      </div>
+      <div id="dlGrid" class="grid"></div>
+      <p class="legal" id="legal"></p>
+    </section>
+
+    <section id="about" class="block about">
+      <h2><span class="emo" aria-hidden="true">💌</span> about</h2>
+      <p id="aboutText"></p>
+      <p class="disclosure" id="disclosure"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p id="copy"></p>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
