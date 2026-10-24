@@ -2,25 +2,13 @@
   {
     "id": "drop-2026-10-23-a",
     "drop_date": "2026-10-23",
-    "category": "plushies",
-    "name": "EXAMPLE: bunny plush",
-    "blurb": "placeholder card. replace me with a real find!",
-    "cute_score": 4,
-    "emoji": "🐰",
-    "image": "assets/img/bunny-fluffy.jpg",
-    "affiliate_url": "",
-    "button_text": "shop it"
-  },
-  {
-    "id": "drop-2026-10-22-a",
-    "drop_date": "2026-10-22",
-    "category": "stationery",
-    "name": "EXAMPLE: sticker sheet",
-    "blurb": "placeholder card from yesterday's drop. delete when you have real ones.",
+    "category": "room decor",
+    "name": "ChiiKAWA Pudding Lamp (MarTUBE)",
+    "blurb": "a chiikawa pudding that glows! 3 brightness levels, breathing light mode and a magnetic base that spins your favorite character. hot right now.",
     "cute_score": 5,
-    "emoji": "✨",
-    "image": "assets/img/kitten-white.jpg",
-    "affiliate_url": "",
+    "emoji": "🍮",
+    "image": "assets/img/chiikawa-pudding-lamp.png",
+    "affiliate_url": "https://shop.app/products/10301460480310/chiikawa-pudding-lamp-3-adjustable-brightness-levels-breathing-light-mode",
     "button_text": "shop it"
   }
 ]
