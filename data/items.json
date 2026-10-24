@@ -10,5 +10,41 @@
     "image": "assets/img/chiikawa-pudding-lamp.png",
     "affiliate_url": "https://shop.app/products/10301460480310/chiikawa-pudding-lamp-3-adjustable-brightness-levels-breathing-light-mode",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-24-a",
+    "drop_date": "2026-10-24",
+    "category": "plush keychain",
+    "name": "Bumblebutt Sakura Bee Plush Keychain",
+    "blurb": "a little bee with a sakura flower in his hand, ready to hang off your bag and bring springtime everywhere you go.",
+    "cute_score": 5,
+    "emoji": "🐝",
+    "image": "assets/img/bumblebutt-sakura-bee-keychain.jpg",
+    "affiliate_url": "https://katnipp.com/products/bumblebutt-sakura-bee-plush-keychain",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-24-b",
+    "drop_date": "2026-10-24",
+    "category": "plush keychain",
+    "name": "BunnyLulu Handmade Bunny Keychain",
+    "blurb": "every lulu is hand made one at a time, so yours comes with its own tiny wobble and personality. pick your favorite color.",
+    "cute_score": 5,
+    "emoji": "🐰",
+    "image": "assets/img/bunnylulu-keychain.jpg",
+    "affiliate_url": "https://bunnyluluoriginal.com/products/bunnylulu-bunny-keychain-handmade-gift-for-her-pet-lovers",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-24-c",
+    "drop_date": "2026-10-24",
+    "category": "plush keychain",
+    "name": "Harajuku Kawaii Kuromi Plushie Keychain",
+    "blurb": "kuromi in a tiny plush keychain form, perfect for clipping onto your keys or bag and looking a little extra.",
+    "cute_score": 4,
+    "emoji": "🖤",
+    "image": "assets/img/kuromi-harajuku-keychain.jpg",
+    "affiliate_url": "https://thekawaiifactory.com/products/harajuku-kawaii-fashion-kuromi-plushie-keychain",
+    "button_text": "shop it"
   }
 ]
