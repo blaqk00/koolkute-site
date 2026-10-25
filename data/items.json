@@ -46,5 +46,41 @@
     "image": "assets/img/kuromi-harajuku-keychain.jpg",
     "affiliate_url": "https://thekawaiifactory.com/products/harajuku-kawaii-fashion-kuromi-plushie-keychain",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-25-a",
+    "drop_date": "2026-10-25",
+    "category": "plushie",
+    "name": "Hello Kitty 8\" Plush (Milky Kitten Series)",
+    "blurb": "hello kitty in a fluffy kitten outfit, light as air and cuddle ready. a japanese cafe vibe for your shelf.",
+    "cute_score": 5,
+    "emoji": "🎀",
+    "image": "assets/img/hello-kitty-milky-kitten-plush.jpg",
+    "affiliate_url": "https://www.sanrio.com/products/hello-kitty-8-plush-milky-kitten-series?variant=46404396777628&_gsid=7sCA4yN5st8N&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-25-b",
+    "drop_date": "2026-10-25",
+    "category": "stationery",
+    "name": "Hello Kitty & Friends Mushroom Stationery Set",
+    "blurb": "hello kitty, my melody and kuromi hanging out on tiny mushrooms. school notes just got way cuter.",
+    "cute_score": 4,
+    "emoji": "🍄",
+    "image": "assets/img/hello-kitty-friends-mushroom-stationery.jpg",
+    "affiliate_url": "https://meeq.com.au/products/hello-kitty-friends-mushroom-stationery-set?variant=45030069862600&_gsid=JWExePGQ4VL8&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-25-c",
+    "drop_date": "2026-10-25",
+    "category": "keychain",
+    "name": "Cinnamoroll Pendant Keychain",
+    "blurb": "a little cinnamoroll for your keys, bag or gadgets. heart shaped clip, pink and puffy and ready to smile at you.",
+    "cute_score": 5,
+    "emoji": "☁️",
+    "image": "assets/img/cinnamoroll-pendant-keychain.png",
+    "affiliate_url": "https://www.mykawaiistationery.com/products/cinnamoroll-pendant-sanrio-keychain?variant=55375842443337&_gsid=HxrTnBDZPPtR&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
   }
 ]
