@@ -1,5 +1,41 @@
 [
   {
+    "id": "drop-2026-10-28-a",
+    "drop_date": "2026-10-28",
+    "category": "keychain",
+    "name": "Hello Kitty 2026 Plush Mascot Keychain (Lucky Zodiac Series)",
+    "blurb": "the year of the horse keychain. a squishy hello kitty charm with embroidered details that clips onto your keys or bag. $22, sanrio's own site.",
+    "cute_score": 5,
+    "emoji": "🐴",
+    "image": "assets/img/hello-kitty-lucky-zodiac-keychain.jpg",
+    "affiliate_url": "https://www.sanrio.com/products/hello-kitty-2026-plush-mascot-keychain-lucky-zodiac-series",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-28-b",
+    "drop_date": "2026-10-28",
+    "category": "keychain",
+    "name": "Kuromi Key Plush Mascot Keychain (20th Anniv. Special Key Series)",
+    "blurb": "kuromi celebrating 20 years, holding a special key with kuromi prints all over her ribbons and dress. about 6 inches, $28.",
+    "cute_score": 5,
+    "emoji": "🗝️",
+    "image": "assets/img/kuromi-20th-key-keychain.jpg",
+    "affiliate_url": "https://www.sanrio.com/products/kuromi-key-plush-mascot-keychain-20th-anniv-special-key-series",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-28-c",
+    "drop_date": "2026-10-28",
+    "category": "keychain",
+    "name": "Sanrio Characters Plush Mascot Keychain Blind Box (2026 New Year Dress Series 2)",
+    "blurb": "a mini 2026 keychain in a tiny costume and headband, character picked at random. six to collect. $24, final sale.",
+    "cute_score": 4,
+    "emoji": "🎁",
+    "image": "",
+    "affiliate_url": "https://www.sanrio.com/products/sanrio-characters-plush-mascot-keychain-2026-new-year-dress-series-2",
+    "button_text": "shop it"
+  },
+  {
     "id": "drop-2026-10-23-a",
     "drop_date": "2026-10-23",
     "category": "room decor",
