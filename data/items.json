@@ -82,5 +82,17 @@
     "image": "assets/img/pochacco-sanrio-standard-keychain.jpg",
     "affiliate_url": "https://www.roseyskawaiishop.com/products/sanrio-characters-standard-mascot-holder-pochacco-r54?variant=67699667730711",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-30-a",
+    "drop_date": "2026-10-30",
+    "category": "stationery",
+    "name": "Sanrio Characters Soft Ring Notebook (Kuromi)",
+    "blurb": "pastel Kuromi pages and a refillable ring binder for extra-cute notes",
+    "cute_score": 5,
+    "emoji": "📓",
+    "image": "assets/img/sanrio-soft-ring-notebook-kuromi.png",
+    "affiliate_url": "https://kawaiipenshop.com/products/sanrio-characters-soft-ring-notebook?variant=42712422023286&_gsid=26iEou2FTKdb&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
   }
 ]
