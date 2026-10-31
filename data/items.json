@@ -94,5 +94,41 @@
     "image": "assets/img/sanrio-soft-ring-notebook-kuromi.png",
     "affiliate_url": "https://kawaiipenshop.com/products/sanrio-characters-soft-ring-notebook?variant=42712422023286&_gsid=26iEou2FTKdb&utm_source=shopify&utm_medium=catalog",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-31-a",
+    "drop_date": "2026-10-31",
+    "category": "plush",
+    "name": "Honeybee Capybara Plushie",
+    "blurb": "a round little capy with tiny bee wings and the softest buzz around. $40 for one, or the page shows a buy-one-get-one offer.",
+    "cute_score": 5,
+    "emoji": "🐝",
+    "image": "assets/img/honeybee-capybara-plushie.png",
+    "affiliate_url": "https://capyera.com/products/new-honeybee-capybara-plushie",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-31-b",
+    "drop_date": "2026-10-31",
+    "category": "stationery",
+    "name": "Sanrio Characters Memo Pad: Mood Notes",
+    "blurb": "tiny mood notes with your favorite Sanrio pals. $6.99 for the selected Hello Kitty design.",
+    "cute_score": 4,
+    "emoji": "📝",
+    "image": "assets/img/sanrio-mood-notes-memo-pad.jpg",
+    "affiliate_url": "https://kawaiipenshop.com/products/sanrio-characters-memo-pad-mood-notes",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-10-31-c",
+    "drop_date": "2026-10-31",
+    "category": "room decor",
+    "name": "MeWaii Squishy Napping Cat LED Night Light",
+    "blurb": "a sleepy squishy kitty to glow beside your bed. $29.99 and add-to-cart is available.",
+    "cute_score": 5,
+    "emoji": "🐱",
+    "image": "assets/img/mewaii-napping-cat-night-light.jpg",
+    "affiliate_url": "https://www.huggwaii.com/products/squishy-silicone-napping-cat-led-night-light-perfect-gift-for-kids-and-girls",
+    "button_text": "shop it"
   }
 ]
