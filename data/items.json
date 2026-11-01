@@ -130,5 +130,41 @@
     "image": "assets/img/mewaii-napping-cat-night-light.jpg",
     "affiliate_url": "https://www.huggwaii.com/products/squishy-silicone-napping-cat-led-night-light-perfect-gift-for-kids-and-girls",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-01-a",
+    "drop_date": "2026-11-01",
+    "category": "plush",
+    "name": "Sanrio Strawberry Dress Plush Mascot (Cinnamoroll)",
+    "blurb": "a tiny cinnamoroll in a strawberry-pink dress, ready to be your pocket-sized pal. $29 at JapanLA.",
+    "cute_score": 5,
+    "emoji": "🍓",
+    "image": "assets/img/sanrio-strawberry-cinnamoroll.jpg",
+    "affiliate_url": "https://www.japanla.com/products/sanrio-strawberry-dress-plush-mascot?variant=45180703801522&_gsid=3kuiiSPmHhSk&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-01-b",
+    "drop_date": "2026-11-01",
+    "category": "stationery",
+    "name": "Totoro & My Melody Sticky Memo Set (Pink)",
+    "blurb": "little pink sticky notes for tiny reminders with your forest-friend duo. $7.99 on sale.",
+    "cute_score": 5,
+    "emoji": "🍃",
+    "image": "assets/img/totoro-mymelody-sticky-memo.jpg",
+    "affiliate_url": "https://kawaiipenshop.com/products/totoro-my-melody-sticky-memo-set?variant=38925117258&_gsid=9fvhBH9ZtJFh&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-01-c",
+    "drop_date": "2026-11-01",
+    "category": "room decor",
+    "name": "MeWaii Fox Night Light",
+    "blurb": "a curled-up fox glow buddy for the coziest corner. $29.99 on sale.",
+    "cute_score": 5,
+    "emoji": "🦊",
+    "image": "assets/img/mewaii-fox-night-light.jpg",
+    "affiliate_url": "https://www.huggwaii.com/products/fox-night-light-with-curled-tail-silicone-squishy-animal-design-lamp-perfect-gift?variant=51106517778708&_gsid=dN37px9mGxta&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
   }
 ]
