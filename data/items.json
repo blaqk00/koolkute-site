@@ -166,5 +166,41 @@
     "image": "assets/img/mewaii-fox-night-light.jpg",
     "affiliate_url": "https://www.huggwaii.com/products/fox-night-light-with-curled-tail-silicone-squishy-animal-design-lamp-perfect-gift?variant=51106517778708&_gsid=dN37px9mGxta&utm_source=shopify&utm_medium=catalog",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-02-a",
+    "drop_date": "2026-11-02",
+    "category": "stationery",
+    "name": "Strawberry Index Tab Stickers",
+    "blurb": "strawberry-shaped tabs to make your planner ridiculously sweet. $6 at Katnipp.",
+    "cute_score": 5,
+    "emoji": "🍓",
+    "image": "assets/img/strawberry-index-tabs.jpg",
+    "affiliate_url": "https://katnipp.com/products/strawberry-index-tab-stickers-kawaii-id008?variant=41768428044474&_gsid=gq7uQSsRDhNr&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-02-b",
+    "drop_date": "2026-11-02",
+    "category": "room decor",
+    "name": "MeWaii Pink Axolotl Squishy Night Light",
+    "blurb": "a squishy pink axolotl glow buddy for your coziest corner. $29.99 at Huggwaii.",
+    "cute_score": 5,
+    "emoji": "🦎",
+    "image": "assets/img/mewaii-pink-axolotl-night-light.jpg",
+    "affiliate_url": "https://www.huggwaii.com/products/axolotl-night-light-cute-healing-gift?variant=49871812002068&_gsid=pVzWmjYMV38D&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-02-c",
+    "drop_date": "2026-11-02",
+    "category": "plush",
+    "name": "Strawberry Capybara Plushie",
+    "blurb": "a strawberry-sweet capy pal, and the page shows buy one get one free. $35 for the pair.",
+    "cute_score": 5,
+    "emoji": "🍓",
+    "image": "assets/img/strawberry-capybara-plushie.png",
+    "affiliate_url": "https://capyera.com/products/new-strawberry-capybara-plushie?variant=50976759710011&_gsid=wvvF4j7fTzMv&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
   }
 ]
