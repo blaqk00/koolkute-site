@@ -202,5 +202,17 @@
     "image": "assets/img/strawberry-capybara-plushie.png",
     "affiliate_url": "https://capyera.com/products/new-strawberry-capybara-plushie?variant=50976759710011&_gsid=wvvF4j7fTzMv&utm_source=shopify&utm_medium=catalog",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-04-a",
+    "drop_date": "2026-11-04",
+    "category": "plushies",
+    "name": "Plush Penguin Desk Buddy",
+    "blurb": "a tiny fluffy penguin buddy for your desk, ready to waddle into your day.",
+    "cute_score": 5,
+    "emoji": "🐧",
+    "image": "assets/img/penguin-desk-buddy.jpg",
+    "affiliate_url": "https://www.walmart.com/ip/Plush-Penguin-Desk-Buddy-Cute-Stuffed-Animal-Table-Decor-Soft-Fluffy-Figurine-for-Home-Office-Car-Adorable-Desktop-Companion-Kawaii-Mini-Plushie/20024054438",
+    "button_text": "shop it"
   }
 ]
