@@ -214,5 +214,41 @@
     "image": "assets/img/penguin-desk-buddy.jpg",
     "affiliate_url": "https://www.walmart.com/ip/Plush-Penguin-Desk-Buddy-Cute-Stuffed-Animal-Table-Decor-Soft-Fluffy-Figurine-for-Home-Office-Car-Adorable-Desktop-Companion-Kawaii-Mini-Plushie/20024054438",
     "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-06-a",
+    "drop_date": "2026-11-06",
+    "category": "stationery",
+    "name": "Sanrio Memo Pad & Sticker Set (Hello Kitty)",
+    "blurb": "tiny notes and stickers, starring hello kitty. your planner just got way sweeter.",
+    "cute_score": 5,
+    "emoji": "📝",
+    "image": "assets/img/sanrio-memo-pad-sticker-set.jpg",
+    "affiliate_url": "https://www.japanla.com/products/sanrio-memo-pad-sticker-set?variant=43680281723058&_gsid=J1w9GpVMXUur&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-06-b",
+    "drop_date": "2026-11-06",
+    "category": "plush",
+    "name": "Kawaii Cute Cartoon Bunny Plushie Doll",
+    "blurb": "a soft little bunny pal, ready to hop into your cuddle rotation.",
+    "cute_score": 5,
+    "emoji": "🐰",
+    "image": "assets/img/kawaiibloom-bunny-plushie.jpg",
+    "affiliate_url": "https://kawaiibloom.com/products/kawaii-cute-cartoon-bunny-plushie-doll?variant=43634036768919&_gsid=CLm1c2Agz7UJ&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
+  },
+  {
+    "id": "drop-2026-11-06-c",
+    "drop_date": "2026-11-06",
+    "category": "room decor",
+    "name": "Cat Squishy Light",
+    "blurb": "a squishy kitty glow buddy for a cozy little desk or bedside nook.",
+    "cute_score": 5,
+    "emoji": "🐱",
+    "image": "assets/img/oodles-cat-squishy-light.webp",
+    "affiliate_url": "https://oodleskids.com/products/cat-squishy-light?variant=48526936408286&_gsid=qHzVu1hQ6rep&utm_source=shopify&utm_medium=catalog",
+    "button_text": "shop it"
   }
 ]
