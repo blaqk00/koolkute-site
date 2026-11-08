@@ -262,29 +262,5 @@
     "image": "assets/img/cat-bud-vase.webp",
     "affiliate_url": "https://www.naturallife.com/products/cutest-little-bud-vase-cat?variant=42601063579821&_gsid=16PgRiE8wdUz&utm_source=shopify&utm_medium=catalog",
     "button_text": "shop it"
-  },
-  {
-    "id": "drop-2026-11-08-a",
-    "drop_date": "2026-11-08",
-    "category": "stationery",
-    "name": "3-Piece Cats Washi Tape Set by Recollections",
-    "blurb": "Three tiny cat tapes to make every planner page a little purr-fect. .99 at Michaels.",
-    "cute_score": 5,
-    "emoji": "🐈",
-    "image": "assets/img/cats-washi-tape.jpg",
-    "affiliate_url": "https://www.michaels.com/product/3piece-cats-washi-tape-set-by-recollections-10818170?michaelsStore=1276&inv=1",
-    "button_text": "shop it"
-  },
-  {
-    "id": "drop-2026-11-08-b",
-    "drop_date": "2026-11-08",
-    "category": "room decor",
-    "name": "Cutest Little Bud Vase - Cat",
-    "blurb": "A tiny cat vase for one perfect flower and a very cute windowsill. 2 at Natural Life.",
-    "cute_score": 5,
-    "emoji": "🌼",
-    "image": "assets/img/cat-bud-vase.webp",
-    "affiliate_url": "https://www.naturallife.com/products/cutest-little-bud-vase-cat?variant=42601063579821&_gsid=16PgRiE8wdUz&utm_source=shopify&utm_medium=catalog",
-    "button_text": "shop it"
   }
 ]
